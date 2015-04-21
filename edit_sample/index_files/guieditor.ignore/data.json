@@ -21,6 +21,12 @@
       "fields": {
        "main": "ここは、プレーンテキストです。\n"
       }
+     },
+     {
+      "modId": "PlainHTMLElements:PlainHTML/Markdown",
+      "fields": {
+       "main": "## heading"
+      }
      }
     ]
    }
