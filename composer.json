@@ -16,6 +16,6 @@
         "phpunit/phpunit": "4.1.*",
         "tomk79/px-fw-2.x": "dev-develop",
         "tomk79/pickles-sitemap-excel-2": "2.*",
-        "tomk79/px2-px2dthelper": "dev-master"
+        "tomk79/px2-px2dthelper": "dev-develop"
     }
 }
