@@ -1,7 +1,7 @@
 tomk79/px2-mod-plain-html-elements
 =========
 
-Plain HTML element modues for Pickles 2.
+Plain HTML element modules for Pickles 2.
 
 ## License
 
