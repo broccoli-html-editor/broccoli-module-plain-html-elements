@@ -1,3 +1,4 @@
 {
-  "name": "Image"
+  "name": "Image",
+  "areaSizeDetection":"deep"
 }

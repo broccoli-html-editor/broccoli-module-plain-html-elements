@@ -1,3 +1,4 @@
 {
-	"name":"Plain Text"
+	"name":"Plain Text",
+    "areaSizeDetection":"deep"
 }

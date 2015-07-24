@@ -1,3 +1,4 @@
 {
-	"name":"HTML"
+	"name":"HTML",
+    "areaSizeDetection":"deep"
 }
