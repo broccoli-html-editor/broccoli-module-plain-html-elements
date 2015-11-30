@@ -5,7 +5,7 @@ return call_user_func( function(){
 	$conf = new stdClass;
 
 	// project
-	$conf->name = 'px2-mod-plain-html-elements'; // サイト名
+	$conf->name = 'broccoli-module-plain-html-elements'; // サイト名
 	$conf->domain = null; // ドメイン
 	$conf->path_controot = '/'; // コンテンツルートディレクトリ
 

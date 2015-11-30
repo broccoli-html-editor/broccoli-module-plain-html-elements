@@ -1,7 +1,7 @@
-pickles2/px2-mod-plain-html-elements
+pickles2/broccoli-module-plain-html-elements
 =========
 
-Plain HTML element modules for [Pickles 2](http://pickles2.pxt.jp/).
+Plain HTML Element modules for [Pickles 2](http://pickles2.pxt.jp/) and broccoli-html-editor.
 
 ## Usage - 使い方
 
@@ -12,7 +12,7 @@ Plain HTML element modules for [Pickles 2](http://pickles2.pxt.jp/).
 ```
 {
     "require": {
-        "pickles2/px2-mod-plain-html-elements": "dev-master"
+        "pickles2/broccoli-module-plain-html-elements": "dev-master"
     }
 }
 ```
@@ -27,7 +27,7 @@ $ composer update
 
 ```
 // config for Pickles2 Desktop Tool.
-@$conf->plugins->px2dt->paths_module_template["PlainHTMLElements"] = "./vendor/pickles2/px2-mod-plain-html-elements/modules/";
+@$conf->plugins->px2dt->paths_module_template["PlainHTMLElements"] = "./vendor/pickles2/broccoli-module-plain-html-elements/modules/";
 ```
 
 

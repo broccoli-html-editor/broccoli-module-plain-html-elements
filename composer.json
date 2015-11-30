@@ -1,6 +1,6 @@
 {
-    "name": "pickles2/px2-mod-plain-html-elements",
-    "description": "Plain HTML element modules for Pickles 2.",
+    "name": "pickles2/broccoli-module-plain-html-elements",
+    "description": "Plain HTML Element modules for Pickles 2 and broccoli-html-editor.",
     "keywords": ["pickles"],
     "license": "MIT",
     "authors": [
