@@ -1,7 +1,7 @@
-pickles2/broccoli-module-plain-html-elements
+broccoli-html-editor/broccoli-module-plain-html-elements
 =========
 
-Plain HTML Element modules for [Pickles 2](http://pickles2.pxt.jp/) and broccoli-html-editor.
+Plain HTML Element modules for broccoli-html-editor.
 
 ## Usage - 使い方
 

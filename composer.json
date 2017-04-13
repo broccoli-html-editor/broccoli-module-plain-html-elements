@@ -1,6 +1,6 @@
 {
     "name": "broccoli-html-editor/broccoli-module-plain-html-elements",
-    "description": "Plain HTML Element modules for and broccoli-html-editor.",
+    "description": "Plain HTML Element modules for broccoli-html-editor.",
     "keywords": ["broccoli-html-editor"],
     "license": "MIT",
     "authors": [
