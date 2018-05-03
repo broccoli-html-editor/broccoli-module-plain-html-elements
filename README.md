@@ -12,7 +12,7 @@ Plain HTML Element modules for broccoli-html-editor.
 ```json
 {
     "require": {
-        "pickles2/broccoli-module-plain-html-elements": "^0.1"
+        "broccoli-html-editor/broccoli-module-plain-html-elements": "^0.1"
     }
 }
 ```
